@@ -1,0 +1,16 @@
+{
+  "name": "bible-verse-study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server-dev": "nodemon server/index.js"
+  },
+  "author": "Adam Floyd",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "mongoose": "^4.9.6",
+    "nodemon": "^1.18.3"
+  }
+}
